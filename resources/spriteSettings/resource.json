@@ -1,0 +1,6 @@
+{
+  "filtering": "pixelated",
+  "pixelsPerUnit": 16,
+  "framesPerSecond": 60,
+  "alphaTest": 0.1
+}
